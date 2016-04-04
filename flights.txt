@@ -1,0 +1,4 @@
+7,Davis,0,Paris
+82,San Francisco,6,Davis
+101,Paris,5,San Francisco
+103,Davis,3,San Francisco
